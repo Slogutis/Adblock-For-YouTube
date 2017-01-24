@@ -1,0 +1,9 @@
+Package: com.ihack102.adblockforyoutube
+Name: Adblock For YouTube
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: iHack102
+Author: iHack102
+Section: Tweaks
